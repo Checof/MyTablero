@@ -5,10 +5,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
-    <meta name="author" content="Sergio horta">
+    <meta name="author" content="Sergio Horta">
     <meta name="generator" content="AAAG">
     <link rel="icon" type="image/png" href="../img/favicon-aaag.png">
-    <title>AAAG - Circulares</title>
+    <title>SAHM - Mi tablero</title>
 
     <link href="BS/css/bootstrap.min.css" rel="stylesheet">
 
