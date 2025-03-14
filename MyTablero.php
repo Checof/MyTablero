@@ -17,7 +17,7 @@
 
   <body>
     
-    <div>"Hola mundo!"</div>
+    <div class="text-success">"Hola mundo!"</div>
 
     <script src="BS/js/bootstrap.bundle.min.js"></script>
 
